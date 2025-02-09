@@ -13,4 +13,4 @@ Use SQL to:
 - Access and explore the database
 - Analyze and optimize the business’ marketing channels, website, and product portfolio
 
-The solutions for all the given tasks can be found in the [attached report](E-Commerce _Data Analysis_Report.pdf) and SQL queries files. 
+The solutions for all the given tasks can be found in the [[attached report](E-Commerce _Data Analysis_Report.pdf)](E-Commerce _Data Analysis_Report.pdf) and SQL queries files. 
